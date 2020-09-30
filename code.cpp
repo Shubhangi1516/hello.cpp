@@ -6,7 +6,7 @@
 int main()
 {
   clrscr();
-  cout<<"Hello, World!"<<endl;
+  cout<<"Hello, World!"<<endl
   return 0;
 }  
   
